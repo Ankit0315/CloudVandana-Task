@@ -5,7 +5,6 @@ Please note that it would be preferable to avoid relying on built-in methods suc
 in Java, or arrow functions of JavaScript. Instead, creating a method or function from scratch and using 
 your own logic in the assignment would be worth considering. 
 
-<br>
 1- JAVA<br>
 * Create an array with the values (1, 2, 3, 4, 5, 6, 7) and shuffle it. <br>
 * Enter a Roman Number as input and convert it to an integer. (ex IX = 9) <br>
